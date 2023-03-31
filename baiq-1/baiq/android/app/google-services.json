@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "711629364671",
+    "firebase_url": "https://baiq-905e3.firebaseio.com",
+    "project_id": "baiq-905e3",
+    "storage_bucket": "baiq-905e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711629364671:android:d94b2c5df76a83dda6d50a",
+        "android_client_info": {
+          "package_name": "com.inslab.baiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711629364671-h8o3ac2ri6ifu12fpb576mi8k51obo4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inslab.baiq",
+            "certificate_hash": "c9cc0f7e3e5f55c942eee88cdb3a7e9577646e60"
+          }
+        },
+        {
+          "client_id": "711629364671-caqpkg159gdahe73a6kehu86q666hcbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inslab.baiq",
+            "certificate_hash": "4a3d00d91e3bec9e1967f6e9e7ed0d4b4f13fbef"
+          }
+        },
+        {
+          "client_id": "711629364671-8ktpttabp5s0fl5rmvmlcquno4hnbm0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWSe7abPAplncMv8n2J8sw9Gqi0O7pAWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711629364671-8ktpttabp5s0fl5rmvmlcquno4hnbm0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711629364671:android:5953e5547be6ea6ca6d50a",
+        "android_client_info": {
+          "package_name": "com.inslab.baiq_ustadz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711629364671-g60gf1b869h1pam4furbrm6aonq6fr0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inslab.baiq_ustadz",
+            "certificate_hash": "c9cc0f7e3e5f55c942eee88cdb3a7e9577646e60"
+          }
+        },
+        {
+          "client_id": "711629364671-140udhvae44hubd6mg70j7o6pnvno0d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inslab.baiq_ustadz",
+            "certificate_hash": "4a3d00d91e3bec9e1967f6e9e7ed0d4b4f13fbef"
+          }
+        },
+        {
+          "client_id": "711629364671-8ktpttabp5s0fl5rmvmlcquno4hnbm0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWSe7abPAplncMv8n2J8sw9Gqi0O7pAWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711629364671-8ktpttabp5s0fl5rmvmlcquno4hnbm0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
